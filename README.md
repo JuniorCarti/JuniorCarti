@@ -1,4 +1,4 @@
-# 👋 Welcome to My GitHub Profile!
+# 👋 Hello , Its Ridge Junior!
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuniorCarti&show_icons=true&theme=radical)
 
