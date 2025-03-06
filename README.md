@@ -1,4 +1,4 @@
-## 🚀 Ridge Junior | DevSecOps Software Developer
+Ridge Junior | DevSecOps Software Developer
 
 <table>
 <tr>
