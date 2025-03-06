@@ -12,7 +12,7 @@ Ridge Junior | DevSecOps Software Developer
 <tr>
 <td width="50%" valign="top" align="center" style="background-color: #161b22; padding: 20px; border-radius: 12px;">
 
-### **GitHub Stats**  
+**GitHub Stats**  
 
 <p align="center">
   <a href="https://github.com/JuniorCarti">
@@ -27,7 +27,7 @@ Ridge Junior | DevSecOps Software Developer
 
 <td width="50%" valign="top" align="center" style="background-color: #f8f9fa; padding: 20px; border-radius: 12px;">
 
-  **Most Used Languages**  
+**Most Used Languages**  
 
 <p align="center">
   <a href="https://github.com/JuniorCarti">
@@ -35,10 +35,10 @@ Ridge Junior | DevSecOps Software Developer
   </a>
 </p>
 
-🚀 **Language Usage**  
+**Language Usage**  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-60%25-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=black&color=black" />
+  <img src="https://img.shields.io/badge/Java-60%25-5A3D9C?style=for-the-badge&logo=java&logoColor=white&labelColor=black&color=black" />
   <img src="https://img.shields.io/badge/Python-20%25-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=black&color=black" />
   <img src="https://img.shields.io/badge/JavaScript-10%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=black&color=black" />
   <img src="https://img.shields.io/badge/Other-10%25-808080?style=for-the-badge&labelColor=black&color=black" />
@@ -73,4 +73,3 @@ Ridge Junior | DevSecOps Software Developer
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
