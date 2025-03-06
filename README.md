@@ -6,7 +6,7 @@ Ridge Junior | DevSecOps Software Developer
 
 ---
 
-## 📊 **GitHub Stats & Contributions**  
+**GitHub Stats & Contributions**  
 
 <table width="100%">
 <tr>
@@ -20,7 +20,7 @@ Ridge Junior | DevSecOps Software Developer
   </a>
 </p>
 
-🔹 **GitHub Grade:**  
+**GitHub Grade:**  
 <img src="https://img.shields.io/badge/GitHub-A+-brightgreen?style=flat-square" />
 
 </td>
@@ -50,7 +50,7 @@ Ridge Junior | DevSecOps Software Developer
 
 ---
 
-## 🛠 **GitHub Contributions & Streak**  
+**GitHub Contributions & Streak**  
 
 <p align="center">
   <a href="https://github.com/JuniorCarti">
