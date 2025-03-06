@@ -1,10 +1,10 @@
-Ridge Junior | DevSecOps Software Developer
+## 🚀 Ridge Junior | DevSecOps Software Developer  
 
 <table>
 <tr>
-<td valign="top" align="left">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuniorCarti&show_icons=true&theme=default&count_private=true&include_all_commits=true)](https://github.com/JuniorCarti)  
+<td valign="top" align="left" style="background-color:#2d2d2d; padding:10px; border-radius:10px;">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuniorCarti&show_icons=true&theme=graywhite&count_private=true&include_all_commits=true)](https://github.com/JuniorCarti)  
 ⭐ **Total Stars Earned:** ![Stars](https://img.shields.io/github/stars/JuniorCarti?style=flat-square&color=yellow)  
 
 </td>
@@ -20,3 +20,4 @@ Ridge Junior | DevSecOps Software Developer
 </td>
 </tr>
 </table>
+
