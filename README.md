@@ -1,18 +1,10 @@
- Ridge Junior | DevSecOps Software Developer  
+# Ridge Junior | DevSecOps & Software Developer  
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=JuniorCarti&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
-</p>
-
----
-
-**GitHub Stats & Contributions**  
+## 📊GitHub Stats & Contributions  
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top" align="center" style="background-color: #161b22; padding: 20px; border-radius: 12px;">
-
-**GitHub Stats**  
 
 <p align="center">
   <a href="https://github.com/JuniorCarti">
@@ -27,7 +19,7 @@
 
 <td width="50%" valign="top" align="center" style="background-color: #f8f9fa; padding: 20px; border-radius: 12px;">
 
-**Most Used Languages**  
+### **🛠 Most Used Languages**  
 
 <p align="center">
   <a href="https://github.com/JuniorCarti">
@@ -35,7 +27,7 @@
   </a>
 </p>
 
-**Language Usage**  
+### **💻 Language Usage**  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-60%25-5A3D9C?style=for-the-badge&logo=java&logoColor=white&labelColor=black&color=black" />
@@ -50,7 +42,7 @@
 
 ---
 
-**GitHub Contributions & Streak**  
+GitHub Contributions & Streak  
 
 <p align="center">
   <a href="https://github.com/JuniorCarti">
@@ -66,10 +58,14 @@
 
 ---
 
-## **🌐 Connect with Me**  
+## 🌐 Connect with Me  
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/ridge-junior-2bb333204/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="mailto:ridgejunior204@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
