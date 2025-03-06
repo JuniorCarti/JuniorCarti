@@ -1,4 +1,4 @@
-Ridge Junior | DevSecOps Software Developer  
+ Ridge Junior | DevSecOps Software Developer  
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=JuniorCarti&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
