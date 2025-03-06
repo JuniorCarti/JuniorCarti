@@ -1,4 +1,4 @@
-## 🚀 Ridge Junior | DevSecOps Software Developer  
+Ridge Junior | DevSecOps Software Developer  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JuniorCarti&label=Profile%20Views&color=blue&style=flat-square)  
 
@@ -14,10 +14,10 @@
 <tr>
 <td align="center">
 
-### 🔥 Most Used Languages  
+Most Used Languages  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorCarti&layout=compact&theme=dark&langs_count=6&hide=css,html&border_radius=50)](https://github.com/JuniorCarti)  
 
-🔥 **Most Used Language:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)  
+**Most Used Language:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)  
 
 </td>
 </tr>
@@ -32,7 +32,6 @@
 
 ### **🚀 Let's Connect!**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-handle)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/JuniorCarti)  
 
 ---
