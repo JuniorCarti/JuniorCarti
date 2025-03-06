@@ -4,9 +4,9 @@ Ridge Junior | DevSecOps Software Developer
 
 <table>
 <tr>
-<td valign="top" align="left">
+<td valign="top" align="left" style="background-color: #000000; padding: 10px; border-radius: 10px;">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuniorCarti&show_icons=true&theme=dark&count_private=true&include_all_commits=true)](https://github.com/JuniorCarti)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuniorCarti&show_icons=true&theme=light&count_private=true&include_all_commits=true)](https://github.com/JuniorCarti)  
 ⭐ **Total Stars Earned:** ![Stars](https://img.shields.io/github/stars/JuniorCarti?style=flat-square&color=yellow)  
 
 </td>
@@ -30,8 +30,7 @@ Most Used Languages
 
 ---
 
-### **🚀 Let's Connect!**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/JuniorCarti)  
+### **🌐 Connect with Me**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ridge-junior-2bb333204/)  
 
 ---
