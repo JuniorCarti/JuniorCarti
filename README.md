@@ -1,19 +1,18 @@
-## Ridge Junior | DevSecOps & Software Developer  
+# 🚀 Ridge Junior | DevSecOps & Software Developer  
 
-## 📊GitHub Stats & Contributions  
+## 📊 GitHub Stats & Contributions  
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top" align="center" style="background-color: #161b22; padding: 20px; border-radius: 12px;">
+
+### **⚡ GitHub Stats**  
 
 <p align="center">
   <a href="https://github.com/JuniorCarti">
     <img src="https://github-readme-stats.vercel.app/api?username=JuniorCarti&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&border_radius=10" alt="GitHub Stats" />
   </a>
 </p>
-
-**GitHub Grade:**  
-<img src="https://img.shields.io/badge/GitHub-A+-brightgreen?style=flat-square" />
 
 </td>
 
@@ -27,22 +26,13 @@
   </a>
 </p>
 
-### **💻 Language Usage**  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-60%25-5A3D9C?style=for-the-badge&logo=java&logoColor=white&labelColor=black&color=black" />
-  <img src="https://img.shields.io/badge/Python-20%25-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=black&color=black" />
-  <img src="https://img.shields.io/badge/JavaScript-10%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=black&color=black" />
-  <img src="https://img.shields.io/badge/Other-10%25-808080?style=for-the-badge&labelColor=black&color=black" />
-</p>
-
 </td>
 </tr>
 </table>
 
 ---
 
-GitHub Contributions & Streak  
+## 🔥 GitHub Contributions & Streak  
 
 <p align="center">
   <a href="https://github.com/JuniorCarti">
@@ -60,12 +50,11 @@ GitHub Contributions & Streak
 
 ## 🌐 Connect with Me  
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ridge-junior-2bb333204/">
+<p align="center">
+  <a href="https://www.linkedin.com/in/ridge-junior-2bb333204/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ridgejunior204@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
