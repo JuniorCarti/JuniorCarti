@@ -3,9 +3,6 @@
 - 📈 I specialize in building **secure**, **scalable**, and **automated** solutions, with expertise in **CI/CD** pipelines, **security automation**, and **full-stack development**.
 
 - ❤️ Passionate about building applications using **Java**, **Python**, **JavaScript**, and **Kotlin**.
-
-- 💬 Ask me about anything [here](https://github.com/JuniorCarti/issues)
-
 ---
 
 ### 🔧 Technologies & Tools
