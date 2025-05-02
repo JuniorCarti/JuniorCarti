@@ -17,6 +17,19 @@
 
 ---
 
+## ⭐ Featured Projects
+
+Here are a few projects that showcase my work:
+
+- 🔐 [**SecurePipeline**](https://github.com/JuniorCarti/SecurePipeline) – A CI/CD pipeline template with integrated security scanning (DevSecOps best practices).
+- 📱 [**Kotlin Weather App**](https://github.com/JuniorCarti/KotlinWeatherApp) – A modern weather forecasting app built using Kotlin and Jetpack Compose.
+- 🌐 [**Portfolio Website**](https://github.com/JuniorCarti/Portfolio) – My personal website built with HTML, CSS, and JavaScript.
+- 🤖 [**AutoBot-Python**](https://github.com/JuniorCarti/AutoBot-Python) – A simple Python automation bot for managing local files and scheduling tasks.
+
+> 🛠 More coming soon! Visit [github.com/JuniorCarti](https://github.com/JuniorCarti?tab=repositories) for all projects.
+
+---
+
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -53,4 +66,3 @@
 <div align="center">
   <img src="https://github.com/JuniorCarti/JuniorCarti/blob/main/assets/footer.svg" />
 </div>
-
