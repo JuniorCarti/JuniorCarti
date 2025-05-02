@@ -1,25 +1,29 @@
-<!-- INTRO HEADER -->
+<!-- Animated Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4F8CC9&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ridge+Junior!;DevSecOps+Engineer+%7C+Software+Developer;Secure.+Automate.+Build." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4F8CC9&center=true&vCenter=true&width=435&lines=Hey!+I'm+Ridge+Junior;DevSecOps+Engineer+%7C+Software+Developer;Secure.+Automate.+Build." alt="Typing SVG" />
 </p>
 
 ---
 
-### 👋 About Me
+### 👨‍💻 About Me
 
-💼 **DevSecOps Engineer** | 🔐 Full-Stack Software Developer  
-I’m passionate about building secure, efficient, and scalable systems.  
-From CI/CD pipelines to full-stack applications, I work with tools and languages like **Java**, **Python**, **JavaScript**, and **Kotlin** to create meaningful tech.
+🔐 DevSecOps Engineer & 💻 Software Developer  
+I build **secure**, **scalable**, and **automated** solutions from infrastructure to frontend.  
+I specialize in:
+- Creating robust CI/CD pipelines
+- Automating security testing
+- Building full-stack apps using **Java**, **Python**, **JavaScript**, and **Kotlin**
 
 ---
 
-### 🧰 Tech Toolbox
+### 🧰 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,kotlin,js,html,css,git,docker,linux,bash,vscode" />
 </p>
 
 ---
+
 ### 📊 GitHub Insights
 
 <p align="center">
@@ -34,6 +38,10 @@ From CI/CD pipelines to full-stack applications, I work with tools and languages
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuniorCarti&theme=github_dark" width="45%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JuniorCarti&theme=github_dark" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub%20Grade-B%2D-orange?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
 </p>
 
 ---
