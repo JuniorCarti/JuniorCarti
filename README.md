@@ -38,7 +38,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ridge-junior-2bb333204/">
+  <a href="www.linkedin.com/in/ridge-abuto-41211236a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ridgejunior204@gmail.com">
