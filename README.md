@@ -2,7 +2,6 @@
 ### *DevSecOps Engineer | Software Developer*  
 
 🚀 **Building secure, scalable systems** | 🔒 **Security-first approach** | 🤖 **Automation enthusiast**
-
 ---
 
 ## 👨‍💻 About Me
