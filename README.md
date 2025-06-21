@@ -1,46 +1,39 @@
-<!-- Minimalist & Sleek README for Ridge (Junior) Abuto -->
-
-<h1 align="center">Ridge (Junior) Abuto</h1>
-<p align="center"><strong>DevSecOps Engineer | Software Developer</strong></p>
-<p align="center">🔐 Secure Pipelines • ☁️ Cloud-Native Systems • 🧪 CI/CD Automation</p>
-
----
-
-### 👋 About Me
-
-- 🔧 Secure CI/CD pipelines & infrastructure as code
-- 💻 Full-stack development with a focus on clean, maintainable code
-- 🛡️ Advocate for DevSecOps and security best practices
-
----
-
-### 🧰 Tech Stack
-
-**Languages & Frameworks:** Java • Python • JavaScript • Kotlin • Node.js  
-**DevOps & Cloud:** Docker • Kubernetes • AWS • Terraform • Ansible • Git
-
----
-
-### 📈 GitHub Stats
+<h1 align="center"> 
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/rocket_1f680.png" width="30px"> Ridge (Junior) Abuto
+</h1>
+<h3 align="center"> 
+  DevSecOps Engineer | Cloud-Native Security | CI/CD Automation 
+</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuniorCarti&show_icons=true&theme=calm&hide_border=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorCarti&layout=compact&theme=calm&hide_border=true" width="47%" />
+  <a href="https://linkedin.com/in/ridge-abuto-41211236a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="mailto:ridgejunior204@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://x.com/Ridge16352045"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"></a>
 </p>
 
 ---
 
-### 🌐 Connect with Me
-
+### **🛠️ Core Stack**
 <p align="center">
-  <a href="https://www.linkedin.com/in/ridge-abuto-41211236a">LinkedIn</a> •
-  <a href="mailto:ridgejunior204@gmail.com">Email</a> •
-  <a href="https://github.com/JuniorCarti">GitHub</a> •
-  <a href="https://x.com/Ridge16352045">Twitter</a>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white">
 </p>
 
 ---
 
+### **📊 GitHub Analytics**
 <p align="center">
-  <sub>Crafted with care — Minimal by design, powerful by purpose.</sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=JuniorCarti&show_icons=true&hide_border=true&theme=github_dark" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorCarti&layout=compact&hide_border=true&theme=github_dark" width="45%">
 </p>
+
+---
+
+### **🔍 Currently Focused On**
+```bash
+- 🔐 Integrating SAST/DAST into CI/CD pipelines
+- ☁️ Optimizing Kubernetes cost/security (KubeSec, Falco)
+- 🤖 Automating IaC compliance checks (Terraform + OPA)
